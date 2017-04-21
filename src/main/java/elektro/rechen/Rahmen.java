@@ -56,7 +56,7 @@ public class Rahmen extends JFrame {
 
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout());
-
+        panel.setBackground(Color.CYAN);
         panel.add(textFieldPlus1);
         panel.add(labelPlus);
         panel.add(textFieldPlus2);
@@ -98,7 +98,7 @@ public class Rahmen extends JFrame {
 
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout());
-
+        panel.setBackground(Color.MAGENTA);
         panel.add(textFieldMinus1);
         panel.add(labelPlus);
         panel.add(textFieldMinus2);

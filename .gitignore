@@ -6,4 +6,5 @@
 .metadata
 # compiled sources
 target
-out/production/rechenmaschine/elektro/rechen/
+out/
+src/main/java/elektro/.DS_Store
